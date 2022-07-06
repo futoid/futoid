@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliekmandal
-- 👀 I’m interested in open source projects.
+- 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning dsa and developing projects on mern stack.
 
 
