@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliekmandal
+- 👋 Hi, I’m @futoid
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning dsa and developing projects on mern stack.
 
