@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @futoid
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning dsa and developing projects on mern stack.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5CZ9KjiTpHnWS8DvFb/giphy.gif" width="400"/>
+</div>
 
 
 <!---
