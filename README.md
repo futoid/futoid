@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futoid" alt="futoid" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently exploring **Next JS**
 
 - 📫 How to reach me **aliekmandal24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wX2UYe3zEqPsQcOcOvwWXaR2NHTQBpFC/](https://drive.google.com/file/d/1wX2UYe3zEqPsQcOcOvwWXaR2NHTQBpFC/)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-5I6KB_NDwX7L3VdCCBwVoWF4EGybWVI/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
